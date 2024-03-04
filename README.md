@@ -47,6 +47,7 @@ Join us in reshaping the future of gaming and crypto. Download the game client, 
 
 ---
 
-This project is licensed under the [Apache License 2.0](link-to-license-file).
+This project is licensed under the [Apache License 2.0](LICENSE).
+
 
 
