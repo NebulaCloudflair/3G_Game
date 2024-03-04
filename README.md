@@ -47,7 +47,7 @@ Join us in reshaping the future of gaming and crypto. Download the game client, 
 
 ---
 
-This project is licensed under the [Apache License 2.0](LICENSE).
+https://github.com/NebulaCloudflair/threegenerationgame/LICENSE
 
 
 
