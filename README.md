@@ -34,7 +34,7 @@ Get involved today and become part of gaming history!
 
 ## Contact Us
 
-For inquiries, feedback, or support, please contact us at [anygame4me2u@gmail,con](mailto:email@example.com).
+For inquiries, feedback, or support, please contact us at [anygame4me2u@gmail.com](mailto:email@example.com).
 
 Galactic Girls Game is a revolutionary space-themed RPG that pushes the boundaries of gaming and crypto integration. Immerse yourself in a universe where advanced technologies such as Artificial Intelligence (AI), Non-Fungible Tokens (NFTs), and cryptocurrency come together to create a truly unique gaming experience.
 
@@ -47,7 +47,22 @@ Join us in reshaping the future of gaming and crypto. Download the game client, 
 
 ---
 
-https://github.com/NebulaCloudflair/threegenerationgame/LICENSE
+This project is licensed under the [Apache License 2.0](LICENSE).
+
+Copyright 2024 chapi.ron
+
+Licensed under the Apache License, Version 2.0 the "License";
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
 
 
 
